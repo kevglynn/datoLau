@@ -1,0 +1,9 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=1
+nrows=72270
+[column_names]
+0000=X1
+[column_files]
+0000=m_e7d001ad29a7d930.sidx:0
